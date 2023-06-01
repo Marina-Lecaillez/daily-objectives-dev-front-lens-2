@@ -1,6 +1,6 @@
 # Objectifs journaliers
 
-## Vendredi 19/05/2023
+## Vendredi 02/06/2023
 
 - [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
   - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format

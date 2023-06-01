@@ -1,6 +1,6 @@
 # Objectifs journaliers
 
-## Vendredi 19/05/2023
+## Jeudi 01/06/2023
 
 ### Javascript :
 
